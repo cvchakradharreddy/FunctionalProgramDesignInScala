@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week5/calculator/src/main/scala/calculator/Calculator.scala:20:111: comparing values of types (String, calculator.Signal[calculator.Expr]) and String using `==` will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m    namedExpressions.map { case (name, expr) => name -> Signal(eval(expr(), namedExpressions.filterNot(n => n == name))) }[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
