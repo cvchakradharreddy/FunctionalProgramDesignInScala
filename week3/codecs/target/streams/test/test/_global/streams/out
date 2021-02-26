@@ -1,0 +1,40 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for org.scalacheck.ScalaCheckFramework produced 0 initial tasks for 0 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(codecs.CodecsSuite, sbt.ForkMain$AnnotatedFingerscan@11af5db0, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36mit is possible to encode and decode 'Int' values (1pt)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36mit is possible to encode and decode 'Int' values (1pt)[0m finished, took 0.208 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36ma 'Boolean' value should be encoded as a JSON boolean (1pt)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36ma 'Boolean' value should be encoded as a JSON boolean (1pt)[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36mit is possible to encode and decode 'Boolean' values (1pt)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36mit is possible to encode and decode 'Boolean' values (1pt)[0m finished, took 0.043 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36ma 'Contacts' value should be encoded as a JSON object (1pt)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36ma 'Contacts' value should be encoded as a JSON object (1pt)[0m finished, took 0.026 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36mit is possible to encode and decode people (4pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36mit is possible to encode and decode people (4pts)[0m finished, took 0.103 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36ma 'List[A]' value should be encoded as a JSON array (0pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36ma 'List[A]' value should be encoded as a JSON array (0pts)[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36mit is possible to encode and decode 'String' values (1pt)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36mit is possible to encode and decode 'String' values (1pt)[0m finished, took 0.053 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36ma 'String' value should be encoded as a JSON string (1pt)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36ma 'String' value should be encoded as a JSON string (1pt)[0m finished, took 0.0 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36mit is possible to encode and decode the 'Unit' value (0pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36mit is possible to encode and decode the 'Unit' value (0pts)[0m finished, took 0.005 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36ma 'Person' value should be encoded as a JSON object (1pt)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36ma 'Person' value should be encoded as a JSON object (1pt)[0m finished, took 0.0 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36mit is possible to encode and decode lists (5pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36mit is possible to encode and decode lists (5pts)[0m finished, took 0.088 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36mthe 'Int' decoder should reject invalid 'Int' values (2pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36mthe 'Int' decoder should reject invalid 'Int' values (2pts)[0m finished, took 0.005 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36mit is possible to encode and decode contacts (4pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest codecs.[33mCodecsSuite[0m.[36mit is possible to encode and decode contacts (4pts)[0m finished, took 0.362 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 13 total, 0.949s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 13 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for ScalaCheck not available.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 13, Failed 0, Errors 0, Passed 13[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs.CodecsSuite[0m

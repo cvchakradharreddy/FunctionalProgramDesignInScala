@@ -1,0 +1,87 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/progfun2-codecs-without-resources_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/PersonCodecs.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/PersonCodecs.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Decoder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Decoder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Json$Arr$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Arr$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Json$Arr.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Arr.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Util$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Util$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Encoder$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Encoder$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/DecoderInstances$$anonfun$unitDecoder$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anonfun$unitDecoder$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Decoder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Decoder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/ContactsCodecs.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/ContactsCodecs.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Json$Obj$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Obj$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Json$Num.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Num.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/DecoderInstances$$anonfun$booleanDecoder$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anonfun$booleanDecoder$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/ObjectEncoder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/ObjectEncoder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Json$Null$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Null$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/DecoderInstances$$anonfun$stringDecoder$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anonfun$stringDecoder$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Json.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Json.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Contacts$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Contacts$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Contacts.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Contacts.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Decoder$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Decoder$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Encoder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Encoder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/DecoderInstances$$anonfun$listDecoder$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anonfun$listDecoder$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Util.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Util.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Util$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Util$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Json$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Json$Num$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Num$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Json$Bool.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Bool.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/ObjectEncoder$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/ObjectEncoder$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Json$Bool$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Bool$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Json$Obj.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Obj.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/DecoderInstances.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/DecoderInstances.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Encoder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Encoder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Json$Str.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Str.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/DecoderInstances$$anonfun$intDecoder$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anonfun$intDecoder$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/EncoderInstances.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/EncoderInstances.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/ObjectEncoder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/ObjectEncoder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Json$Str$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Str$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

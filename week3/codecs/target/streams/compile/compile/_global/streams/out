@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/kickass/coursera/Functional Programming Scala/Functional Program Design in Scala/week3/codecs/src/main/scala/codecs/codecs.scala:226:20: abstract type pattern A is unchecked since it is eliminated by erasure[0m
+[0m[[0m[33mwarn[0m] [0m[0m      case Some(a: A) => decoder.decode(a)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
